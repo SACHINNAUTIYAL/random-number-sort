@@ -1,10 +1,9 @@
-Random-number-sort
 
 import numpy as np
 
 lists=[]
 
-for i in range(0,11):
+for i in range(0,10):
 
     x=np.random.randint(-1,500)
 
