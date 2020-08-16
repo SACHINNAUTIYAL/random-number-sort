@@ -6,13 +6,9 @@ lists=[]
 
 for i in range(0,11):
 
-Kernel
+    x-np.random.randint(-1,500)
 
-Widgets
-
-x-np.random.randint(-1,500)
-
-lists.append(x)
+    lists.append(x)
 
 print (lists)
 
