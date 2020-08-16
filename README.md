@@ -6,13 +6,13 @@ lists=[]
 
 for i in range(0,11):
 
-    x-np.random.randint(-1,500)
+    x=np.random.randint(-1,500)
 
     lists.append(x)
 
 print (lists)
 
-sorted list-sorted(lists)
+sorted_list=sorted(lists)
 
-print(sorted list)
+print(sorted_list)
 
